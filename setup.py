@@ -39,7 +39,7 @@ install_requires = ['numpy==1.16.0',
                     'pandas==0.23.4',
                     'enthalpygradients==1.0'
                     'pymc3==3.6',
-                    'scikit-learn==0.22.1'
+                    'scikit-learn==1.5.0'
                     ]
 
 setup(
